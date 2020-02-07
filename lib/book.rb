@@ -31,7 +31,7 @@ class Book
   def genre
     @genre
   end
-  
+
 end
 
 #book.new("And Then There Were None")
