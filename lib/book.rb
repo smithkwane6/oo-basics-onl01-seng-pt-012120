@@ -39,5 +39,7 @@ class Book
 end
 
 #book.new("And Then There Were None")
-
+#book = book.new("Some Title")
+#book.turn_page
+#=> "Flipping the page...wow, you read fast!"
 #instance.property = "something"
